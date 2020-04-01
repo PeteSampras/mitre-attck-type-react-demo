@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mitre-attck-type-react-demo/static/css/main.38b223d9.chunk.css",
+    "main.js": "/mitre-attck-type-react-demo/static/js/main.e120f403.chunk.js",
+    "main.js.map": "/mitre-attck-type-react-demo/static/js/main.e120f403.chunk.js.map",
+    "runtime-main.js": "/mitre-attck-type-react-demo/static/js/runtime-main.8a04388c.js",
+    "runtime-main.js.map": "/mitre-attck-type-react-demo/static/js/runtime-main.8a04388c.js.map",
+    "static/js/2.7aaef059.chunk.js": "/mitre-attck-type-react-demo/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/mitre-attck-type-react-demo/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/mitre-attck-type-react-demo/index.html",
+    "precache-manifest.5bad80e6ecc81080daf04614f53d69b6.js": "/mitre-attck-type-react-demo/precache-manifest.5bad80e6ecc81080daf04614f53d69b6.js",
+    "service-worker.js": "/mitre-attck-type-react-demo/service-worker.js",
+    "static/css/main.38b223d9.chunk.css.map": "/mitre-attck-type-react-demo/static/css/main.38b223d9.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/mitre-attck-type-react-demo/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a04388c.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.38b223d9.chunk.css",
+    "static/js/main.e120f403.chunk.js"
+  ]
+}
